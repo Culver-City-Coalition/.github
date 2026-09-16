@@ -1,98 +1,95 @@
-<div align="center">
+<p align="center">
+  <img src="../assets/ccc-banner.svg" alt="Culver City Coalition — Good Governance, Transparency, Common Sense" width="100%" />
+</p>
 
-# Culver City Coalition
+<p align="center">
+  <strong>Resident-driven Political Action Committee • Culver City, California</strong><br/>
+  <strong>FPPC #1446843</strong>
+</p>
 
-### Good Governance • Transparency • Common Sense
-
-**A grassroots, resident-driven Political Action Committee working to keep Culver City residents informed, engaged, and effective in local government.**
-
-[![Visit Culver City Coalition](https://img.shields.io/badge/Visit-CulverCityCoalition.org-0969da?style=for-the-badge)](https://www.culvercitycoalition.org/)
-[![Recent Reports](https://img.shields.io/badge/Read-Recent_Reports-2da44e?style=for-the-badge)](https://www.culvercitycoalition.org/articles)
-[![Join CCC](https://img.shields.io/badge/Join-Get_Updates-8250df?style=for-the-badge)](https://www.culvercitycoalition.org/)
-[![Support CCC](https://img.shields.io/badge/Support-Donate-b62324?style=for-the-badge)](https://www.culvercitycoalition.org/donate)
-
-</div>
-
----
-
-## About the Culver City Coalition
-
-The **Culver City Coalition (CCC)** is a resident-driven political action committee focused on local government, public records, civic participation, and community accountability in Culver City, California.
-
-CCC publishes reporting, analysis, public-record research, action alerts, and practical tools that help residents understand what local government is doing and participate more effectively.
-
-### Public home
-
-**[CulverCityCoalition.org](https://www.culvercitycoalition.org/)** is the canonical public home of CCC.
+<p align="center">
+  <a href="https://www.culvercitycoalition.org/"><img src="https://img.shields.io/badge/CCC-WEBSITE-111827?style=for-the-badge" alt="CCC Website" /></a>
+  <a href="https://www.culvercitycoalition.org/articles"><img src="https://img.shields.io/badge/READ-ARTICLES-374151?style=for-the-badge" alt="Read Articles" /></a>
+  <a href="https://www.culvercitycoalition.org/donate"><img src="https://img.shields.io/badge/SUPPORT-DONATE-4b5563?style=for-the-badge" alt="Donate" /></a>
+</p>
 
 ---
 
-## What this GitHub organization contains
+<table>
+<tr>
+<td width="33%" valign="top">
 
-This organization is CCC's technical workspace for civic infrastructure and public-interest software.
+### 🏛️ Good Governance
 
-Projects may include:
+CCC follows local government decisions, public processes, and matters affecting Culver City residents.
 
-- civic technology and public-record tools
-- publishing and communications infrastructure
-- data, research, and archival systems
-- workflow and automation projects
-- action-alert and resident-participation technology
-- reusable open-source tools for local civic organizations
+</td>
+<td width="33%" valign="top">
 
-Some operational repositories are intentionally private. Public repositories appear here when they are ready for community use.
+### 🔎 Transparency
 
----
+CCC uses public records, meeting materials, and direct documentation to inform its work and public communications.
 
-## CCC civic infrastructure
+</td>
+<td width="33%" valign="top">
 
-CCC's public-facing work is supported by a growing technical stack designed to keep data, publishing, research, and community participation under organizational control rather than locked inside a single vendor platform.
+### 🧭 Common Sense
 
-Current areas of development include:
+CCC describes its approach as practical, resident-focused, and attentive to the real-world effects of local policy.
 
-- public-interest websites and archives
-- structured civic data
-- evidence and document storage
-- agenda and meeting monitoring
-- public-record research workflows
-- resident action tools
-- donation and supporter infrastructure
-- newsletter and communications systems
+</td>
+</tr>
+</table>
 
 ---
 
-## Related CCC projects
+## What CCC does
 
-### Culver City Records
-A public-record and chronology project documenting people, organizations, property, money, institutions, and consequential civic events in Culver City.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[CulverCityRecords.com](https://www.culvercityrecords.com/)**
+### 📄 Research & Public Records
 
-### Culver City Election
-A civic-information project focused on candidates, endorsements, campaign finance, voting records, organizations, and election-related public records.
+Reviewing agendas, staff reports, public records, campaign disclosures, contracts, and other source material relevant to Culver City government.
 
-**[CulverCityElection.com](https://www.culvercityelection.com/)**
+### 📰 Public Information
 
-### Culver City Coalition
-The public hub for CCC reporting, analysis, action alerts, participation, and community communications.
+Publishing articles, summaries, documentation, and updates for Culver City residents.
 
-**[CulverCityCoalition.org](https://www.culvercitycoalition.org/)**
+</td>
+<td width="50%" valign="top">
+
+### 📣 Resident Engagement
+
+Providing ways for residents to follow issues, receive alerts, and participate in public processes.
+
+### 🗳️ Political Action Committee
+
+Operating as a registered political action committee under California campaign-finance requirements.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Get involved
+## About this GitHub organization
 
-**Read:** [Recent reports and articles](https://www.culvercitycoalition.org/articles)  
-**Participate:** [Visit Culver City Coalition](https://www.culvercitycoalition.org/)  
-**Support:** [Donate to CCC](https://www.culvercitycoalition.org/donate)
+This GitHub organization supports the **internal technology and publishing infrastructure used by the Culver City Coalition**.
+
+Most operational repositories are private. Public repositories may appear when there is a specific reason for public access.
+
+This organization is **not** presented as an open-source civic-technology project, software collective, or umbrella organization for unrelated projects.
 
 ---
 
-<div align="center">
+<p align="center">
+  <strong>CULVER CITY COALITION</strong><br/>
+  Good Governance • Transparency • Common Sense<br/>
+  Culver City, California • FPPC #1446843
+</p>
 
-**Culver City, California**  
-**Culver City Coalition • FPPC #1446843**
-
-[culvercitycoalition.org](https://www.culvercitycoalition.org/)
-
-</div>
+<p align="center">
+  <a href="https://www.culvercitycoalition.org/">culvercitycoalition.org</a>
+</p>
