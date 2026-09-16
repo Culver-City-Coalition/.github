@@ -15,40 +15,75 @@
 
 ---
 
-## About CCC
+## About the Culver City Coalition
 
-The **Culver City Coalition (CCC)** is a grassroots, resident-driven Political Action Committee focused on **good governance, transparency, and common sense in local issues**.
+The **Culver City Coalition (CCC)** is a resident-driven political action committee focused on local government, public records, civic participation, and community accountability in Culver City, California.
 
-CCC helps Culver City residents follow what local government is doing, understand the public record, examine consequential policy and political decisions, and find opportunities to participate.
+CCC publishes reporting, analysis, public-record research, action alerts, and practical tools that help residents understand what local government is doing and participate more effectively.
 
-Our public website publishes reports, analysis, community information, and opportunities for action.
+### Public home
 
-### ➜ [Visit CulverCityCoalition.org](https://www.culvercitycoalition.org/)
+**[CulverCityCoalition.org](https://www.culvercitycoalition.org/)** is the canonical public home of CCC.
 
 ---
 
-## What lives on GitHub?
+## What this GitHub organization contains
 
-This organization is the technical workspace for CCC's growing civic infrastructure, including:
+This organization is CCC's technical workspace for civic infrastructure and public-interest software.
 
-- civic technology and public-interest software
+Projects may include:
+
+- civic technology and public-record tools
 - publishing and communications infrastructure
-- data and research tools
+- data, research, and archival systems
 - workflow and automation projects
-- community-action technology
-- open-source projects that can benefit other civic organizations
+- action-alert and resident-participation technology
+- reusable open-source tools for local civic organizations
 
-Some operational repositories are private. Public repositories and tools will appear here as they are ready for community use.
-
-> **Looking for CCC's current articles, reports, positions, or opportunities to participate?**  
-> GitHub is our technology workspace. **[CulverCityCoalition.org](https://www.culvercitycoalition.org/)** is the canonical public home of the Culver City Coalition.
+Some operational repositories are intentionally private. Public repositories appear here when they are ready for community use.
 
 ---
 
-## Stay informed and get involved
+## CCC civic infrastructure
 
-**Read:** [Recent Reports](https://www.culvercitycoalition.org/articles)  
-**Connect:** [Culver City Coalition](https://www.culvercitycoalition.org/)  
+CCC's public-facing work is supported by a growing technical stack designed to keep data, publishing, research, and community participation under organizational control rather than locked inside a single vendor platform.
+
+Current areas of development include:
+
+- public-interest websites and archives
+- structured civic data
+- evidence and document storage
+- agenda and meeting monitoring
+- public-record research workflows
+- resident action tools
+- donation and supporter infrastructure
+- newsletter and communications systems
+
+---
+
+## Related CCC projects
+
+### Culver City Records
+A public-record and chronology project documenting people, organizations, property, money, institutions, and consequential civic events in Culver City.
+
+**[CulverCityRecords.com](https://www.culvercityrecords.com/)**
+
+### Culver City Election
+A civic-information project focused on candidates, endorsements, campaign finance, voting records, organizations, and election-related public records.
+
+**[CulverCityElection.com](https://www.culvercityelection.com/)**
+
+### Culver City Coalition
+The public hub for CCC reporting, analysis, action alerts, participation, and community communications.
+
+**[CulverCityCoalition.org](https://www.culvercitycoalition.org/)**
+
+---
+
+## Get involved
+
+**Read:** [Recent reports and articles](https://www.culvercitycoalition.org/articles)  
+**Participate:** [Visit Culver City Coalition](https://www.culvercitycoalition.org/)  
 **Support:** [Donate to CCC](https://www.culvercitycoalition.org/donate)
 
 ---
